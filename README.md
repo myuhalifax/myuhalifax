@@ -1,6 +1,6 @@
 # Derek Yu — QA Engineer
 
-QA Engineer in Halifax, Canada. I own QA end-to-end — from requirement changes through testing to release — including testing Government of British Columbia systems delivered with Deloitte.
+QA Engineer based in Halifax, Canada, specializing in end-to-end software quality assurance. Experienced in managing the full QA lifecycle, from requirement analysis and change assessment to test execution, defect management, and release validation. Background includes testing large-scale Government of British Columbia systems delivered in collaboration with Deloitte.
 
 **What I do**
 - Test automation: Selenium WebDriver (C#), Playwright (C#/.NET), SpecFlow / BDD (Gherkin)
